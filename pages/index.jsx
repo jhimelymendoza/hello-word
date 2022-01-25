@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Learn to <Link href="/posts/first-post" ><a >Next.js!</a></Link>
+          Learn to <Link href="/posts/first-post" ><a >Next.js!!!!</a></Link>
         </h1>
 
         <p className="description">
