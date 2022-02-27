@@ -4,6 +4,8 @@ import utilStyles from '../styles/util.module.css'
 import {getSortedPostsData} from '../lib/posts.js'
 
 export default function Home({ allPostsData }) {
+    debugger
+    // const asdf = getAllPostIds();
   return (
       <Layout home>
         <Head>
